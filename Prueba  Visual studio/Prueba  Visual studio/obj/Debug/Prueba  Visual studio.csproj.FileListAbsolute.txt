@@ -1,0 +1,8 @@
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\bin\Debug\Prueba  Visual studio.exe.config
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\bin\Debug\Prueba  Visual studio.exe
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\bin\Debug\Prueba  Visual studio.pdb
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\obj\Debug\Prueba  Visual studio.csprojResolveAssemblyReference.cache
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\obj\Debug\Prueba__Visual_studio.Properties.Resources.resources
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\obj\Debug\Prueba  Visual studio.csproj.GenerateResource.Cache
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\obj\Debug\Prueba  Visual studio.exe
+C:\Users\July\Documents\GitHub\Visual-Studio\Prueba  Visual studio\Prueba  Visual studio\obj\Debug\Prueba  Visual studio.pdb
